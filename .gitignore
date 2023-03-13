@@ -1,3 +1,9 @@
+# Tobias ####
+/.idea
+/.py37-venv
+/dist
+#############
+
 .nfs*
 *.ipynb
 *.pyc
